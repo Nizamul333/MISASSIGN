@@ -1,0 +1,133 @@
+.div2{
+    text-align: center;
+ }
+ .div2 span{
+     color: #4287f5;
+ }
+ .flex-container {
+     display: flex;
+     margin-top: 75px;
+     height: 350px;
+     width: 100%;
+     justify-content: center;
+     align-items:center;
+ flex-direction: row;
+ 
+    
+ }
+ .flex-container .flex-item{
+        
+       
+       
+     height: 300px;
+     display: flex;
+         align-items: center;
+         justify-content: center;
+         background-image: url("images/natu4.jpg");
+           width: 350px;
+           margin: 5px;
+           padding: 5px;
+           background-size: cover;
+           background-repeat: no-repeat;
+          
+       }
+       .flex-container .flex-item1{
+        
+         width: 350px;
+        
+         padding: 5px;
+        
+         display: flex;
+             align-items: center;
+             justify-content: center;
+            
+              
+           }
+ 
+           .under-flex button{
+               display: block;
+               margin-top: 25px;
+               border: none;
+               border-radius:50px;
+               background-color: #4287f5;
+               color: white;
+               padding: 10px;
+           }
+ 
+ 
+           .flex-container1 {
+             display: flex;
+             margin-top: 75px;
+             height: 350px;
+             width: 100%;
+             justify-content: flex-start;;
+             align-items:center;
+         flex-direction: row;
+         
+         
+            
+         }
+ 
+         .flex-container1 li{
+            text-align: left;
+            margin-left: 55px;
+         }
+           .under-fle button{
+             display: block;
+             margin-top: 25px;
+             border: none;
+             border-radius:50px;
+             background-color: #4287f5;
+             color: white;
+             padding: 10px;
+         }
+         .flex-container1 .flex-ite1{
+ 
+ 
+             height: 300px;
+             display: flex;
+                 align-items: center;
+                 justify-content: center;
+                 background-image: url("images/natu3.jpg");
+                   width: 350px;
+                   margin: 5px;
+                   padding: 5px;
+                   background-size: cover;
+                   background-repeat: no-repeat;
+        
+             
+                
+                  
+               }
+               .flex-container1 .flex-ite{
+        
+       
+       
+                 width: 350px;
+            
+             padding: 5px;
+            
+             display: flex;
+                 align-items: center;
+                 justify-content: center;
+                      
+                   }
+ 
+
+                   .div3{
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-around;
+                    padding: 5px;
+                    margin: 10px;
+                   }
+
+                   .box1{
+                    margin: 12px;
+                   }
+                   .box2{
+                    margin: 12px;
+                   }
+                   .box3{
+                    margin: 12px;
+                   }
